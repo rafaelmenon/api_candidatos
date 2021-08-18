@@ -1,0 +1,3 @@
+DATABASE_CONNECTION_STRING=mongodb+srv://testdev:pdv2021*@cluster0.3csm7.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+DATABASE_MORGAN_STRING=mongodb://localhost:27020
+TOKEN_KEY=sldkfnsldkfmlskdfmlknkjdfnbgkdjfngkj

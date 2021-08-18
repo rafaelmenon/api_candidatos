@@ -1,0 +1,23 @@
+{
+  "name": "testes_candidatos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node node_modules/nodemon/bin/nodemon bin/server",
+    "prod": "node bin/server"
+  },
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "debug": "^4.3.2",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "http": "^0.0.1-security",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.13.7",
+    "yup": "^0.32.9"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
